@@ -13,14 +13,14 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  appcenter:
-    path: ../src/appcenter
+  app_center:
+    path: ../src/app_center
 
-  appcenter_analytics:
-    path: ../src/appcenter_analytics
+  app_center_analytics:
+    path: ../src/app_center_analytics
 
-  appcenter_crashes:
-    path: ../src/appcenter_crashes
+  app_center_crashes:
+    path: ../src/app_center_crashes
 
 flutter:
   uses-material-design: true

@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:appcenter/appcenter.dart';
-import 'package:appcenter_analytics/appcenter_analytics.dart';
-import 'package:appcenter_crashes/appcenter_crashes.dart';
+import 'package:app_center/app_center.dart';
+import 'package:app_center_analytics/app_center_analytics.dart';
+import 'package:app_center_crashes/app_center_crashes.dart';
 import 'package:flutter/foundation.dart' show defaultTargetPlatform;
 import 'package:flutter/foundation.dart' show TargetPlatform;
 
